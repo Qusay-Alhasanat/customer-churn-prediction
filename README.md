@@ -83,3 +83,25 @@ which is critical from a business perspective.
 - Perform hyperparameter tuning
 - Build an interactive dashboard for business users
 - Deploy the model as a prediction service
+
+---
+
+## How to Run the Project
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run notebooks in order:
+  - 01_data_cleaning.ipynb
+  - 02_exploratory_data_analysis.ipynb
+  - 03_feature_engineering.ipynb
+  - 04_modeling.ipynb
+  - 05_conclusion.ipynb
+    
+---
+
+## Author
+**Qusay — Data Science Portfolio Project (Entry-level / Learning Project)**  
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/qusay-alhasanat)  
+[🔗 GitHub Profile](https://github.com/Qusay-Alhasanat)  
+[📧 Email Me](mailto:qusay.alhasanat1@gmail.com)
